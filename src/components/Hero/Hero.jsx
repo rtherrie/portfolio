@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Riana</h1>
         <p className={styles.description}>
-          I recently graduated from Eastern Michigan University with a BS in Computer Sciene - Applied.
+          I recently graduated from Eastern Michigan University with a BS in Computer Science - Applied.
           <br></br>
           <br></br>This portfolio showcases my skills and projects in both software and web development, providing a
           glimpse into my technical expertise and creative problem-solving.
