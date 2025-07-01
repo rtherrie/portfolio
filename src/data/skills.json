@@ -1,46 +1,46 @@
 [
   {
     "title": "Java",
-    "imageSrc": "skills/java.png"
+    "imageSrc": "/portfolio/assets/skills/java.png"
   },
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "/portfolio/assets/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "/portfolio/assets/skills/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "/portfolio/assets/skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "/portfolio/assets/skills/node.png"
   },
   {
     "title": "Python",
-    "imageSrc": "skills/python.png"
+    "imageSrc": "/portfolio/assets/skills/python.png"
   },
   {
     "title": "C++",
-    "imageSrc": "skills/cplusplus.png"
+    "imageSrc": "/portfolio/assets/skills/cplusplus.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/js.png"
+    "imageSrc": "/portfolio/assets/skills/js.png"
   },
   {
     "title": "Bash Script",
-    "imageSrc": "skills/bash.png"
+    "imageSrc": "/portfolio/assets/skills/bash.png"
   },
   {
     "title": "Prolog",
-    "imageSrc": "skills/prolog.svg"
+    "imageSrc": "/portfolio/assets/skills/prolog.svg"
   },
   {
     "title": "Lisp",
-    "imageSrc": "skills/lisp.png"
+    "imageSrc": "/portfolio/assets/skills/lisp.png"
   }
 ]
