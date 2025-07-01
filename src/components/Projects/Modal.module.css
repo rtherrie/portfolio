@@ -4,7 +4,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0, 0, 0, 0.6);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,6 +15,7 @@
   background: #070707;
   padding: 2rem;
   border-radius: 8px;
+  max-height: 90vh;
   width: 90%;
   position: relative;
 }
@@ -30,9 +31,9 @@
   cursor: pointer;
 }
 
-.image{
-    width:100%;
-    max-height: 60vh;
-    object-fit: contain;
-    margin: 2vh 0;
+.image {
+  width: 100%;
+  max-height: 60vh;
+  object-fit: contain;
+  margin: 2vh 0;
 }
