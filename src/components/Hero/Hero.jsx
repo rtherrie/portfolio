@@ -24,7 +24,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("/portfolio/assets/hero/heroImage.png")}
+        src={getImageUrl(`${import.meta.env.BASE_URL}assets/hero/heroImage.png`)}
         alt="Hero image of me"
         className={styles.heroImg}
       />
