@@ -14,7 +14,7 @@ export const Contact = () => {
         <li className={styles.link}>
           <img
             className={styles.icon}
-            src={getImageUrl("contact/email.png")}
+            src={"https://rtherrie.github.io/portfolio/assets/contact/email.png"}
             alt="Email icon"
           />
           <a href="mailto:rktherrien23@gmail.com">rktherrien23@gmail.com</a>
@@ -22,17 +22,15 @@ export const Contact = () => {
         <li className={styles.link}>
           <img
             className={styles.icon}
-            src={getImageUrl("contact/linkedin.png")}
+            src={"https://rtherrie.github.io/portfolio/assets/contact/linkedin.png"}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/rianatherrien">
-            linkedin.com/rianatherrien
-          </a>
+          <a href="https://www.linkedin.com/in/rianatherrien">linkedin.com/rianatherrien</a>
         </li>
         <li className={styles.link}>
           <img
             className={styles.icon}
-            src={getImageUrl("contact/github.svg")}
+            src={"https://rtherrie.github.io/portfolio/assets/contact/github.svg"}
             alt="Github icon"
           />
           <a href="https://github.com/rtherrie">github.com/rtherrie</a>
