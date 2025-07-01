@@ -9,13 +9,13 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("/portfolio/assets/about/image0.jpeg")}
+          src={"https://rtherrie.github.io/portfolio/assets/about/image0.jpeg"}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("/portfolio/assets/about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={"https://rtherrie.github.io/portfolio/assets/about/cursorIcon.png"} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -25,7 +25,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("/portfolio/assets/about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={"https://rtherrie.github.io/portfolio/assets/about/cursorIcon.png"} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -34,7 +34,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={"https://rtherrie.github.io/portfolio/assets/about/cursorIcon.png"} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>

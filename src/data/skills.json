@@ -1,46 +1,46 @@
 [
   {
     "title": "Java",
-    "imageSrc": "/portfolio/assets/skills/java.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/java.png"
   },
   {
     "title": "HTML",
-    "imageSrc": "/portfolio/assets/skills/html.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/html.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "/portfolio/assets/skills/css.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/css.png"
   },
   {
     "title": "React",
-    "imageSrc": "/portfolio/assets/skills/react.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/react.png"
   },
   {
     "title": "Node",
-    "imageSrc": "/portfolio/assets/skills/node.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/node.png"
   },
   {
     "title": "Python",
-    "imageSrc": "/portfolio/assets/skills/python.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/python.png"
   },
   {
     "title": "C++",
-    "imageSrc": "/portfolio/assets/skills/cplusplus.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/cplusplus.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "/portfolio/assets/skills/js.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/js.png"
   },
   {
     "title": "Bash Script",
-    "imageSrc": "/portfolio/assets/skills/bash.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/bash.png"
   },
   {
     "title": "Prolog",
-    "imageSrc": "/portfolio/assets/skills/prolog.svg"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/prolog.svg"
   },
   {
     "title": "Lisp",
-    "imageSrc": "/portfolio/assets/skills/lisp.png"
+    "imageSrc": "https://rtherrie.github.io/portfolio/assets/skills/lisp.png"
   }
 ]
