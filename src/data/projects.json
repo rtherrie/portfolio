@@ -1,7 +1,7 @@
 [
   {
     "title": "Survival Chess",
-    "imageSrc": "./assets/projects/survivalchess.png",
+    "imageSrc": "/portfolio/assets/projects/survivalchess.png",
     "description": "Survival Chess is a web based arcade style chess game. In this game, you play chess against a computer while trying to survive waves of incoming pieces. Capture as many pieces as you can while avoiding checkmate.  ",
     "info": "Survival Chess is a web based arcade style chess game. In this game, you play chess against a computer while trying to survive waves of incoming pieces. \n\nI created this game with a team of developers in my final semester of university. This was my capstone project. \n\nFor this project, I was the team leader. I had the oportunity to lead an amazing group of developers and together we created this awesome game! We also presented on our game at a final demo day where many people were able to see and test out Survival Chess. We presented and recieved amazing reviews! I am very proud of what my team was able to acomplish. \n\nThis app was created using JavaScript in conjunction with the Phaser framework. \n\nYou can try the game at survival-chess.netlify.app",
     "skills": ["JavaScript", "Phaser"],
@@ -10,7 +10,7 @@
   },
   {
     "title": "Logic Puzzles App",
-    "imageSrc": "./assets/projects/logicpuzzles.png",
+    "imageSrc": "/portfolio/assets/projects/logicpuzzles.png",
     "description": "This is an app with multiple logic puzzles. The user gets to choose from the different types of puzzles to complete. After choosing, a puzzle is proceeduraly generated and the user can solve it.",
     "info": "This is a logic puzzles app. The user can pick from three different puzzle types. When one is selected, a puzzle is generated and the user can solve it. \n\nThe puzzle types that are currently offered are Sudoku, Nonograms, and Cryptograms. The user can choose any type of puzzle to solve, and can return to the menu to pick a new puzzle whenever they want. \n\nI created this app because my girlfriend and I love to do logic puzzles. Every night, we do the LinkedIn games (highly recommend them, they are very fun). We realized that we finish up the daily games, but still want to keep playing. Thus, we downloaded a lot of different puzzle apps so we could have more logic puzzles to do. This amount of apps quickly became overwhelming. I thought that it would be beneficial to us to design a single app that we can play unlimited games on, and that I did. \n\nThis app was created using java code in android studio. I used skills I learned in the mobile development class I took in my final year of university.",
     "skills": ["Java"],
@@ -19,7 +19,7 @@
   },
   {
     "title": "Quest Note",
-    "imageSrc": "./assets/projects/questnote.png",
+    "imageSrc": "/portfolio/assets/projects/questnote.png",
     "description": "An IOS app developed to help the user keep track of their progress in different video games. The user can log when they play the game and what they did. They can also look back at a timeline of their previous entries.",
     "info": "Quest Note is an IOS app developed to help the user keep track of their progress in different video games. \n\nThe user can log when they play the game and what they did. They can also look back at a timeline of their previous entries.Any gamer knows how hard it is to get back into a game once you have not played it for a while. \n\nI espeically struggle with not completing games because once I take even a small break, I do not remmeber where I left off and I have trouble getting back on my feet. This app helps combat that lost feeling. By logging what you did in your last play session and what you plan to do next, you easily create a journal of everything you have done in the game. Reading these entries is an easy way to jog your memory and get back in the action.  \n\nThis app was created using Swift in XCode. I learned a small amount of Swift in a Mobile Development class I took my final semester of university, and everything else is self taught.",
     "skills": ["Swift"],
@@ -28,7 +28,7 @@
   },
   {
     "title": "Spanish Chat",
-    "imageSrc": "./assets/projects/spanishchat.png",
+    "imageSrc": "/portfolio/assets/projects/spanishchat.png",
     "description": "An IOS app designed to help the user practice their Spanish speaking and writing. The user may respond to prompts and see corrections and suggetions on their response. ",
     "info": "This is an app designed ot help english speakers practice their spanish. \n\nThe user can select one of 8 different categories of conversation and then respond to prompts given by a chat bot. The bot will then respond with the translation of what you said and a better way to say it (if there is one). \n\nThis allows the user to see what they may have done wrong and correct their mistakes in the future.",
     "skills": ["Swift"],
